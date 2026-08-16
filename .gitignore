@@ -1,5 +1,4 @@
-.env
 *.session
+*.db
 __pycache__/
-*.pyc
-*.sqlite3
+.env
